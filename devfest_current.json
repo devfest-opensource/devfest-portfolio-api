@@ -1,0 +1,26 @@
+{
+  "title": "Devfest Mumbai 2022",
+  "description": "DevFest is an annual community-run, one-day conference aimed at bringing technology enthusiasts and experts together. The talks will focus on tech such as Android, React, Flutter, Firebase, Google Cloud Platform, Kotlin, Google Assistant, Machine Learning, and more.\n\nYou will be able to familiarize themselves with new and emerging technologies, network, socialize, and help to build the growing tech community in Mumbai. Anyone interested in technology is welcome. Each ticket includes talks from industry experts, skill-building sessions, gifts, lunch and snacks.",
+  "venue": "The Lalit Mumbai - Sahar Airport Rd, Navpada, Marol, Andheri East Mumbai, 400059",
+  "time": "10AM - 6PM",
+  "date": "5 Dec 2022",
+  "speakers": [
+    {
+      "name": "Dev",
+      "desc": "....",
+      "socialLinks": {
+        "github": "github.com/devbathani",
+        "instagram": "instagram.com/devbathani"
+      }
+    },
+    {
+      "name": "Virus",
+      "desc": "....",
+      "socialLinks": {
+        "github": "github.com/devbathani",
+        "instagram": "instagram.com/devbathani"
+      }
+    }
+  ],
+  "links": []
+}
