@@ -1,26 +1,57 @@
 {
-  "title": "Devfest Mumbai 2022",
+  "title": "DevFest Mumbai 2022",
+  "registration_link": "https://eventbrite.com/",
   "description": "DevFest is an annual community-run, one-day conference aimed at bringing technology enthusiasts and experts together. The talks will focus on tech such as Android, React, Flutter, Firebase, Google Cloud Platform, Kotlin, Google Assistant, Machine Learning, and more.\n\nYou will be able to familiarize themselves with new and emerging technologies, network, socialize, and help to build the growing tech community in Mumbai. Anyone interested in technology is welcome. Each ticket includes talks from industry experts, skill-building sessions, gifts, lunch and snacks.",
-  "venue": "The Lalit Mumbai - Sahar Airport Rd, Navpada, Marol, Andheri East Mumbai, 400059",
+  "venue": [
+    "The Lalit Mumbai",
+    "Sahar Airport Rd, Navpada, Marol, Andheri East Mumbai, 400059"
+  ],
   "time": "10AM - 6PM",
-  "date": "5 Dec 2022",
+  "image": "https://ik.imagekit.io/devfestportfolioapi/placeholder_image?ik-sdk-version=javascript-1.4.3&updatedAt=1669979564636",
+  "date": "5 Dec",
   "speakers": [
     {
       "name": "Dev",
-      "desc": "....",
-      "socialLinks": {
+      "description": "The CEO of the app",
+      "social_links": {
         "github": "github.com/devbathani",
         "instagram": "instagram.com/devbathani"
-      }
+      },
+      "image": "https://ik.imagekit.io/devfestportfolioapi/placeholder_image?ik-sdk-version=javascript-1.4.3&updatedAt=1669979564636"
     },
     {
-      "name": "Virus",
-      "desc": "....",
-      "socialLinks": {
-        "github": "github.com/devbathani",
-        "instagram": "instagram.com/devbathani"
-      }
+      "name": "Nishith",
+      "description": "I developed this API :)",
+      "social_links": {
+        "github": "github.com/Nishith-Savla",
+        "instagram": "instagram.com/_invinicible_mortal_"
+      },
+      "image": "https://ik.imagekit.io/devfestportfolioapi/placeholder_image?ik-sdk-version=javascript-1.4.3&updatedAt=1669979564636"
     }
   ],
-  "links": []
+  "organizers": [
+    {
+      "name": "Dev",
+      "description": "The CEO of the app",
+      "social_links": {
+        "github": "github.com/devbathani",
+        "instagram": "instagram.com/devbathani"
+      },
+      "image": "https://ik.imagekit.io/devfestportfolioapi/placeholder_image?ik-sdk-version=javascript-1.4.3&updatedAt=1669979564636"
+    },
+    {
+      "name": "Nishith",
+      "description": "I developed this API :)",
+      "social_links": {
+        "github": "github.com/Nishith-Savla",
+        "instagram": "instagram.com/_invinicible_mortal_"
+      },
+      "image": "https://ik.imagekit.io/devfestportfolioapi/placeholder_image?ik-sdk-version=javascript-1.4.3&updatedAt=1669979564636"
+    }
+  ],
+  "links": [
+    "https://gdgmad.com",
+    "https://twitter.com/gdgmad",
+    "https://bit.ly/gdgmadyoutube"
+  ]
 }
