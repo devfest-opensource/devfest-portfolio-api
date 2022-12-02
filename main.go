@@ -12,9 +12,11 @@ import (
 
 type Person struct {
 	Name        string            `json:"name,omitempty"`
-	Description string            `json:"description,omitempty"`
+	Designation string            `json:"designation,omitempty"`
+	Track       string            `json:"track,omitempty"`
 	SocialLinks map[string]string `json:"social_links,omitempty"`
 	Image       string            `json:"image,omitempty"`
+	Title       string            `json:"title,omitempty"`
 }
 
 type Response struct {

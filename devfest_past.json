@@ -8,103 +8,256 @@
       "Sahar Airport Rd, Navpada, Marol, Andheri East Mumbai, 400059"
     ],
     "time": "10AM - 6PM",
-    "image": "https://ik.imagekit.io/devfestportfolioapi/placeholder_image?ik-sdk-version=javascript-1.4.3&updatedAt=1669979564636",
     "date": "5 Dec",
+    "image": "https://ik.imagekit.io/devfestportfolioapi/placeholder_image?ik-sdk-version=javascript-1.4.3\u0026updatedAt=1669979564636",
     "speakers": [
       {
-        "name": "Dev",
-        "description": "The CEO of the app",
+        "name": "Rivu Chakraborty",
+        "title": "Migrating to Jetpack Compose",
+        "designation": "Kotlin GDE,Android Dev,Author ",
+        "track": "Mobile and Web",
         "social_links": {
-          "github": "github.com/devbathani",
-          "instagram": "instagram.com/devbathani"
+          "twitter": "https://twitter.com/rivuchakraborty",
+          "github": "github.com/RivuChk",
+          "linkedin": "www.linkedin.com/in/rivuchk/"
         },
-        "image": "https://ik.imagekit.io/devfestportfolioapi/placeholder_image?ik-sdk-version=javascript-1.4.3&updatedAt=1669979564636"
+        "image": "https://s3-us-east-2.amazonaws.com/rivu.dev/2020/10/rivu-twitter-gde.png"
       },
       {
-        "name": "Nishith",
-        "description": "I developed this API :)",
+        "name": "Shubham Pachori",
+        "title": "Unleashing the Power of Collaboration",
+        "designation": "Head of Product at Shipments",
+        "track": "Mobile and Web",
         "social_links": {
-          "github": "github.com/Nishith-Savla",
-          "instagram": "instagram.com/_invinicible_mortal_"
+          "twitter": "https://twitter.com/spachori94",
+          "github": "",
+          "linkedin": "www.linkedin.com/in/shubham-pachori-b5703a86/"
         },
-        "image": "https://ik.imagekit.io/devfestportfolioapi/placeholder_image?ik-sdk-version=javascript-1.4.3&updatedAt=1669979564636"
+        "image": "https://media-exp1.licdn.com/dms/image/C4E03AQE7pHg3QbeS8A/profile-displayphoto-shrink_800_800/0/1516985239885?e=1675296000&v=beta&t=MXabVUtDWLIIEUrhGhQLjX2fKSl7EgqxBvIi5E1G-Ok"
+      },
+      {
+        "name": "Vivek Yadav",
+        "title": "Unleashing the Power of Collaboration",
+        "designation": "Google Developer Expert for Flutter and Dart",
+        "track": "Mobile and Web",
+        "social_links": {
+          "twitter": "https://twitter.com/viveky259259",
+          "linkedin": "www.linkedin.com/in/viveky259/"
+        },
+        "image": "https://pbs.twimg.com/profile_images/1588891552944115712/kHlRL_QO_400x400.jpg"
+      },
+      {
+        "name": "Pratik Kale",
+        "title": "Unleashing the Power of Collaboration",
+        "designation": "Organizer at GDG Cloud Pune",
+        "track": "Mobile and Web",
+        "social_links": {
+          "twitter": "https://twitter.com/prtkdev",
+          "github": "github.com/prtkdev",
+          "linkedin": "www.linkedin.com/in/prtkdev/"
+        },
+        "image": "https://media-exp1.licdn.com/dms/image/D4D03AQGC-lLE5FDfSg/profile-displayphoto-shrink_800_800/0/1669225249185?e=1675296000&v=beta&t=6QCax2nw5R7A-dWnr9UFzBEJ5nqv721KxQfMVR7BxgQ"
+      },
+      {
+        "name": "Karan Balkar",
+        "title": "Unleashing the Power of Collaboration",
+        "designation": "Mobile Application Developer at LTI",
+        "track": "Mobile and Web",
+        "social_links": {
+          "twitter": "twitter.com/threadsoflifebg"
+        },
+        "image": ""
+      },
+      {
+        "name": "Japneet Rajput",
+        "title": "Unleashing the Power of Collaboration",
+        "designation": "Student at VESIT",
+        "track": "Mobile and Web",
+        "social_links": {
+          "twitter": "https://twitter.com/japneet_rajput",
+          "github": "github.com/JapneetRajput",
+          "linkedin": "www.linkedin.com/in/japneetrajput/"
+        },
+        "image": "https://media-exp1.licdn.com/dms/image/C4D03AQG-kYWFSDHekw/profile-displayphoto-shrink_800_800/0/1658652053870?e=1675296000&v=beta&t=w6UeZVOVbe5FHTxsdFsvW_J7sYXsu-ljqggVcCuR_Ts"
+      },
+      {
+        "name": "Gayathri Devi Srinivasan",
+        "title": "Unleashing the Power of Collaboration",
+        "designation": "Software Engineer at GeekyAnts ",
+        "track": "Mobile and Web",
+        "social_links": {
+          "twitter": "https://twitter.com/gayuga99",
+          "github": "github.com/GayathrideviGA",
+          "linkedin": "www.linkedin.com/in/gayathri-devi-srinivasan-961bbb147/"
+        },
+        "image": "https://pbs.twimg.com/profile_images/1495854390657585152/6IGHu3g1_400x400.jpg"
+      },
+      {
+        "name": "Sanni Prasad",
+        "title": "Unleashing the Power of Collaboration",
+        "designation": "Flutter Developer at ZestMoney",
+        "track": "Mobile and Web",
+        "social_links": {
+          "twitter": "https://twitter.com/prasadsunny1",
+          "github": "github.com/prasadsunny1",
+          "linkedin": "www.linkedin.com/in/prasadsunny1/"
+        },
+        "image": "https://pbs.twimg.com/profile_images/1534798563506388992/2t7Srm5e_400x400.jpg"
+      },
+      {
+        "name": "Adit Lal",
+        "title": "Unleashing the Power of Collaboration",
+        "designation": "Individual Consultant",
+        "track": "Mobile and Web",
+        "social_links": {
+          "twitter": "https://twitter.com/aditlal",
+          "linkedin": "www.linkedin.com/in/aditlal/"
+        },
+        "image": "https://pbs.twimg.com/profile_images/1587799198870560768/RaM17Z66_400x400.jpg"
+      },
+      {
+        "name": "Amitkumar Pandey",
+        "title": "Application security techniques",
+        "designation": "Custom Engineer-Infra Modernisation Specialist at Google",
+        "track": "Cloud and ML",
+        "social_links": {
+          "linkedin": "www.linkedin.com/in/amitkumarpandeyme/"
+        },
+        "image": "https://media-exp1.licdn.com/dms/image/C5103AQHOzT8vquhGiw/profile-displayphoto-shrink_800_800/0/1581388360814?e=1675296000&v=beta&t=n5bKq4gWcvZC-r27LMFfov015t7HITuz-y-zvf6Ds3E"
+      },
+      {
+        "name": "Sakshi Khandelwal",
+        "title": "Let's flow with Dataflow",
+        "designation": "Senior Software Engineer at Capgemini",
+        "track": "Cloud and ML",
+        "social_links": {
+          "twitter": "https://twitter.com/SakshiKhandlwl",
+          "linkedin": "www.linkedin.com/in/sakshikhandelwal276/"
+        },
+        "image": "https://pbs.twimg.com/profile_images/856164158009556992/BkeHKqF2_400x400.jpg"
+      },
+      {
+        "name": "Darshit SuratWala",
+        "title": "Infrastructure CI/CD using OpenSource tools",
+        "designation": "DevOps Engineer",
+        "track": "Cloud and ML",
+        "social_links": {
+          "twitter": "https://twitter.com/DSdatsme",
+          "github": "github.com/DSdatsme",
+          "linkedin": "www.linkedin.com/in/dsdatsme/"
+        },
+        "image": "https://pbs.twimg.com/profile_images/896324723050659840/TMb2JdcX_400x400.jpg"
+      },
+      {
+        "name": "Ashish Tiwari",
+        "title": "Elastic on Google Cloud Platform",
+        "designation": "Senior Developer Advocate at Elastic India",
+        "track": "Cloud and ML",
+        "social_links": {
+          "twitter": "https://twitter.com/_ashish_tiwari",
+          "github": "github.com/ashishtiwari1993",
+          "linkedin": "www.linkedin.com/in/ashishtiwari93/"
+        },
+        "image": "https://media-exp1.licdn.com/dms/image/C4D03AQHWwSc9N5XBwQ/profile-displayphoto-shrink_800_800/0/1641449981342?e=1675296000&v=beta&t=lXeqrKSrgnqTb9jkJoihcx7RI-37vwsLsduYS0GsA2s"
+      },
+      {
+        "name": "Indranil Chandra",
+        "title": "Modern Data Stack - Architectural Design Patterns",
+        "designation": "ML & Data Architect at Upstox ",
+        "track": "Cloud and ML",
+        "social_links": {
+          "twitter": "https://twitter.com/IndranilChandra",
+          "github": "github.com/indranildchandra",
+          "linkedin": "www.linkedin.com/in/indranildchandra/"
+        },
+        "image": "https://media-exp1.licdn.com/dms/image/C4E03AQGuBU_Nua9Ojg/profile-displayphoto-shrink_800_800/0/1622492592976?e=1675296000&v=beta&t=F-WS6JbJRQ-3SjykZuBbLlXTts5AwDsvvhpRQ9p_4Vg"
+      },
+      {
+        "name": "Tanisha Bhayani",
+        "title": "Federated Learning",
+        "designation": "AI Researcher and Developer",
+        "track": "Cloud and ML",
+        "social_links": {
+          "twitter": "https://twitter.com/thelogicalkoan",
+          "linkedin": "https://www.linkedin.com/in/roshantanisha/"
+        },
+        "image": "https://media-exp1.licdn.com/dms/image/C4E03AQGuBU_Nua9Ojg/profile-displayphoto-shrink_800_800/0/1622492592976?e=1675296000&v=beta&t=F-WS6JbJRQ-3SjykZuBbLlXTts5AwDsvvhpRQ9p_4Vg"
+      },
+      {
+        "name": "Ashish Bhalgat",
+        "title": "Leveraging GCP Cloud Migration",
+        "designation": "Cloud Solution Architect at ThoughtWorks",
+        "track": "Cloud and ML",
+        "social_links": {
+          "linkedin": "www.linkedin.com/in/ashishbhalgat/"
+        },
+        "image": "https://media-exp1.licdn.com/dms/image/C5603AQFOE89ln9qt6Q/profile-displayphoto-shrink_800_800/0/1642880899460?e=1675296000&v=beta&t=i9WnTSg4H5T4VYsfq2iLBDLsX0LJSFemt2PdQ3ae-aA"
+      },
+      {
+        "name": "Ankit Adlakha",
+        "title": "Leveraging GCP Cloud Migration",
+        "designation": "Lead Consultant at Thought Works",
+        "track": "Cloud and ML",
+        "social_links": {
+          "linkedin": "www.linkedin.com/in/ankit-adlakha-9370b923/"
+        },
+        "image": "https://media-exp1.licdn.com/dms/image/C5103AQE29UQxNinw7A/profile-displayphoto-shrink_800_800/0/1558913190660?e=1675296000&v=beta&t=IHwDSbNFLoEV1v7nIJ0A5ptrLkoMsUy36tbcpMLumDw"
+      },
+      {
+        "name": "Rohit Ghumare",
+        "title": "ML Engineer goes DevOps via MLOps",
+        "designation": "Developer Advocate at solo.io",
+        "track": "Cloud and ML",
+        "social_links": {
+          "twitter": "https://twitter.com/ghumare64",
+          "github": "github.com/rohitg00",
+          "linkedin": "www.linkedin.com/in/rohit-ghumare/"
+        },
+        "image": "https://media-exp1.licdn.com/dms/image/C4E03AQFpwFynqq-dJA/profile-displayphoto-shrink_800_800/0/1637434348960?e=1675296000&v=beta&t=MA3FVBeYNBCkQWpP77LCjmH0XOlhEsyFuccixGFLr48"
       }
     ],
     "organizers": [
       {
-        "name": "Dev",
-        "description": "The CEO of the app",
+        "name": "Ali Mustufa",
+        "designation": "Postman, Student Community Lead",
         "social_links": {
-          "github": "github.com/devbathani",
-          "instagram": "instagram.com/devbathani"
+          "linkedin": "www.linkedin.com/in/ialimustufa/"
         },
-        "image": "https://ik.imagekit.io/devfestportfolioapi/placeholder_image?ik-sdk-version=javascript-1.4.3&updatedAt=1669979564636"
+        "image": "https://media-exp1.licdn.com/dms/image/C5103AQEXFDC6We5kxQ/profile-displayphoto-shrink_800_800/0/1573316174362?e=1675296000&v=beta&t=EiDowKL9ZfTYMZ6uNR8Lae6hxpNoNK7VXcVM46vrhcA"
       },
       {
-        "name": "Nishith",
-        "description": "I developed this API :)",
+        "name": "Vaibhav Malpani",
+        "designation": "Incedo Inc., Senior Software Developer",
         "social_links": {
-          "github": "github.com/Nishith-Savla",
-          "instagram": "instagram.com/_invinicible_mortal_"
+          "github": "github.com/vaibhav-malpani/",
+          "linkedin": "www.linkedin.com/in/ivaibhavmalpani/"
         },
-        "image": "https://ik.imagekit.io/devfestportfolioapi/placeholder_image?ik-sdk-version=javascript-1.4.3&updatedAt=1669979564636"
-      }
-    ],
-    "links": [
-      "https://gdgmad.com",
-      "https://twitter.com/gdgmad",
-      "https://bit.ly/gdgmadyoutube"
-    ]
-  },
-  {
-    "title": "DevFest Mumbai 2022",
-    "registration_link": "https://eventbrite.com/",
-    "description": "DevFest is an annual community-run, one-day conference aimed at bringing technology enthusiasts and experts together. The talks will focus on tech such as Android, React, Flutter, Firebase, Google Cloud Platform, Kotlin, Google Assistant, Machine Learning, and more.\n\nYou will be able to familiarize themselves with new and emerging technologies, network, socialize, and help to build the growing tech community in Mumbai. Anyone interested in technology is welcome. Each ticket includes talks from industry experts, skill-building sessions, gifts, lunch and snacks.",
-    "venue": [
-      "The Lalit Mumbai",
-      "Sahar Airport Rd, Navpada, Marol, Andheri East Mumbai, 400059"
-    ],
-    "time": "10AM - 6PM",
-    "image": "https://ik.imagekit.io/devfestportfolioapi/placeholder_image?ik-sdk-version=javascript-1.4.3&updatedAt=1669979564636",
-    "date": "5 Dec",
-    "speakers": [
-      {
-        "name": "Dev",
-        "description": "The CEO of the app",
-        "social_links": {
-          "github": "github.com/devbathani",
-          "instagram": "instagram.com/devbathani"
-        },
-        "image": "https://ik.imagekit.io/devfestportfolioapi/placeholder_image?ik-sdk-version=javascript-1.4.3&updatedAt=1669979564636"
+        "image": "https://media-exp1.licdn.com/dms/image/C4D03AQFpItY7Ggd1SA/profile-displayphoto-shrink_800_800/0/1663942479176?e=1675296000&v=beta&t=ZjJxKRXEijGlrH46Q5I99luD8-q9rdsR5p6SN2A7EWc"
       },
       {
-        "name": "Nishith",
-        "description": "I developed this API :)",
+        "name": "Dharmesh Vaya",
+        "designation": "VMware, Sr. Enterprise Architect",
         "social_links": {
-          "github": "github.com/Nishith-Savla",
-          "instagram": "instagram.com/_invinicible_mortal_"
+          "twitter": "twitter.com/DRVaya"
         },
-        "image": "https://ik.imagekit.io/devfestportfolioapi/placeholder_image?ik-sdk-version=javascript-1.4.3&updatedAt=1669979564636"
-      }
-    ],
-    "organizers": [
-      {
-        "name": "Dev",
-        "description": "The CEO of the app",
-        "social_links": {
-          "github": "github.com/devbathani",
-          "instagram": "instagram.com/devbathani"
-        },
-        "image": "https://ik.imagekit.io/devfestportfolioapi/placeholder_image?ik-sdk-version=javascript-1.4.3&updatedAt=1669979564636"
+        "image": "https://pbs.twimg.com/profile_images/1262676803669200896/6jT8gUSw_400x400.jpg"
       },
       {
-        "name": "Nishith",
-        "description": "I developed this API :)",
+        "name": "Nirav Kothari",
+        "designation": "Quantiphi Analytics, Senior Technical Architect",
         "social_links": {
-          "github": "github.com/Nishith-Savla",
-          "instagram": "instagram.com/_invinicible_mortal_"
+          "linkedin": "www.linkedin.com/in/iNiravKothari/"
         },
-        "image": "https://ik.imagekit.io/devfestportfolioapi/placeholder_image?ik-sdk-version=javascript-1.4.3&updatedAt=1669979564636"
+        "image": "https://media-exp1.licdn.com/dms/image/C4E03AQE_vpfdCscEpg/profile-displayphoto-shrink_800_800/0/1617873262302?e=1675296000&v=beta&t=QtKrAqfzZog4HfVMcS2TusJuARsiqZkrdPUBrMS_Kjc"
+      },
+      {
+        "name": "Rohit Ghumare",
+        "designation": "Developer Advocate at solo.io",
+        "social_links": {
+          "github": "github.com/rohitg00",
+          "linkedin": "www.linkedin.com/in/rohit-ghumare/"
+        },
+        "image": "https://media-exp1.licdn.com/dms/image/C4E03AQFpwFynqq-dJA/profile-displayphoto-shrink_800_800/0/1637434348960?e=1675296000&v=beta&t=MA3FVBeYNBCkQWpP77LCjmH0XOlhEsyFuccixGFLr48"
       }
     ],
     "links": [
