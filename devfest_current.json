@@ -1,6 +1,6 @@
 {
   "title": "DevFest Mumbai 2022",
-  "registration_link": "https://www.eventbrite.com/e/devfest-mumbai-2022-tickets-467161090397",
+  "registration_link": "https://eventbrite.com/",
   "description": "DevFest is an annual community-run, one-day conference aimed at bringing technology enthusiasts and experts together. The talks will focus on tech such as Android, React, Flutter, Firebase, Google Cloud Platform, Kotlin, Google Assistant, Machine Learning, and more.\n\nYou will be able to familiarize themselves with new and emerging technologies, network, socialize, and help to build the growing tech community in Mumbai. Anyone interested in technology is welcome. Each ticket includes talks from industry experts, skill-building sessions, gifts, lunch and snacks.",
   "venue": [
     "The Lalit Mumbai",
@@ -35,7 +35,7 @@
     },
     {
       "name": "Vivek Yadav",
-      "title": "Unleashing the Power of Collaboration",
+      "title": "How to Migrate Your Existing Native Apps to Flutter",
       "designation": "Google Developer Expert for Flutter and Dart",
       "track": "Mobile and Web",
       "social_links": {
@@ -46,7 +46,7 @@
     },
     {
       "name": "Pratik Kale",
-      "title": "Unleashing the Power of Collaboration",
+      "title": "Design for Developers",
       "designation": "Organizer at GDG Cloud Pune",
       "track": "Mobile and Web",
       "social_links": {
@@ -58,7 +58,7 @@
     },
     {
       "name": "Karan Balkar",
-      "title": "Unleashing the Power of Collaboration",
+      "title": "Using Custom Intents with Google Assistant",
       "designation": "Mobile Application Developer at LTI",
       "track": "Mobile and Web",
       "social_links": {
@@ -68,7 +68,7 @@
     },
     {
       "name": "Japneet Rajput",
-      "title": "Unleashing the Power of Collaboration",
+      "title": "Android Integration with Python",
       "designation": "Student at VESIT",
       "track": "Mobile and Web",
       "social_links": {
@@ -80,7 +80,7 @@
     },
     {
       "name": "Gayathri Devi Srinivasan",
-      "title": "Unleashing the Power of Collaboration",
+      "title": "Building a Dino Game",
       "designation": "Software Engineer at GeekyAnts ",
       "track": "Mobile and Web",
       "social_links": {
@@ -92,7 +92,7 @@
     },
     {
       "name": "Sanni Prasad",
-      "title": "Unleashing the Power of Collaboration",
+      "title": "Integrating Flutter to Existing Native Apps",
       "designation": "Flutter Developer at ZestMoney",
       "track": "Mobile and Web",
       "social_links": {
@@ -104,7 +104,7 @@
     },
     {
       "name": "Adit Lal",
-      "title": "Unleashing the Power of Collaboration",
+      "title": "Navigating with Compose in Multi-Module Code",
       "designation": "Individual Consultant",
       "track": "Mobile and Web",
       "social_links": {
